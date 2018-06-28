@@ -114,50 +114,50 @@ number
 52. Write a C program to perform the Insertion Sort
 
 53. Write a C program to produce the following output:
- *
- **
- ***
- ****
- *****
+          *
+          **
+          ***
+          ****
+          *****
  
 54. Write a C program to produce the following output:
- 1
- 22
- 333
- 4444
- 55555
+          1
+          22
+          333
+          4444
+          55555
  
 55. Write a C program to produce the following output:
-1
-2 3
-4 5 6
-7 8 9 10
+          1
+          2 3
+          4 5 6
+          7 8 9 10
 
 56. Write a C program to produce the following output:
-*
-***
-*****
-*******
-*********
+          *
+          ***
+          *****
+          *******
+          *********
 
 57. Write a C program to produce the following output:
-* $ $ $ $
-$ * $ $ $
-$ $ * $ $
-$ $ $ * $
-$ $ $ $ *
+          * $ $ $ $
+          $ * $ $ $
+          $ $ * $ $
+          $ $ $ * $
+          $ $ $ $ *
 
 58. Write a C program to produce the following output:
-# # # # #
-# # # # #
-# # 0 # #
-# # # # #
-# # # # #
+          # # # # #
+          # # # # #
+          # # 0 # #
+          # # # # #
+          # # # # #
 
 59. Write a C program to produce the following output:
-1
-234
-56789
+          1
+          234
+          56789
 
 60. Write a C program to perform mark analysis using structures
 
