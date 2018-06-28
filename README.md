@@ -18,7 +18,7 @@
 9. [Write a C program to perform basic arithmetic operations using freehand
 operators](https://github.com/ShankarDhandapani/C-Programs/blob/master/ArithmeticOperationUsingFreehandOperator.c)
 
-10. Write a C program to calculate the average of ten numbers
+10. [Write a C program to calculate the average of ten numbers](https://github.com/ShankarDhandapani/C-Programs/blob/master/AverageOfTenNumbers.c)
 
 11. Write a C program to find the greatest of two number using conditional
 operator
