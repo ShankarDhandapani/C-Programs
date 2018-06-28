@@ -114,11 +114,13 @@ number
 52. Write a C program to perform the Insertion Sort
 
 53. Write a C program to produce the following output:
+```
           *
           **
           ***
           ****
           *****
+```          
  
 54. Write a C program to produce the following output:
           1
