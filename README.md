@@ -136,30 +136,38 @@ number
           7 8 9 10
 
 56. Write a C program to produce the following output:
+```
           *
           ***
           *****
           *******
           *********
+```          
 
 57. Write a C program to produce the following output:
+```
           * $ $ $ $
           $ * $ $ $
           $ $ * $ $
           $ $ $ * $
           $ $ $ $ *
+```          
 
 58. Write a C program to produce the following output:
+```
           # # # # #
           # # # # #
           # # 0 # #
           # # # # #
           # # # # #
+```          
 
 59. Write a C program to produce the following output:
+```
           1
           234
           56789
+```          
 
 60. Write a C program to perform mark analysis using structures
 
