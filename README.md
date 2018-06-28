@@ -123,17 +123,21 @@ number
 ```          
  
 54. Write a C program to produce the following output:
+```
           1
           22
           333
           4444
           55555
+```          
  
 55. Write a C program to produce the following output:
+```
           1
           2 3
           4 5 6
           7 8 9 10
+```          
 
 56. Write a C program to produce the following output:
 ```
